@@ -1,0 +1,24 @@
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.csprojAssemblyReference.cache
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.AssemblyInfoInputs.cache
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.AssemblyInfo.cs
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Context.deps.json
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Context.dll
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Models.dll
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Models.pdb
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.csproj.CopyComplete
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Context.pdb
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.dll
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.pdb
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.csproj.CoreCompileInputs.cache
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Context.deps.json
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Context.dll
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Context.pdb
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Models.dll
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\bin\Debug\netstandard2.0\CarApi.Models.pdb
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.csprojAssemblyReference.cache
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.AssemblyInfoInputs.cache
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.AssemblyInfo.cs
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.csproj.CoreCompileInputs.cache
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.csproj.CopyComplete
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.dll
+C:\Users\anish\OneDrive\Desktop\portable\portable\CarApi.Context\obj\Debug\netstandard2.0\CarApi.Context.pdb

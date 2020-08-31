@@ -1,0 +1,12 @@
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\bin\Debug\netcoreapp3.1\VehicleApi.Validation.deps.json
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\bin\Debug\netcoreapp3.1\VehicleApi.Validation.dll
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\bin\Debug\netcoreapp3.1\VehicleApi.Models.dll
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\bin\Debug\netcoreapp3.1\VehicleApi.Models.pdb
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\obj\Debug\netcoreapp3.1\VehicleApi.Validation.csprojAssemblyReference.cache
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\obj\Debug\netcoreapp3.1\VehicleApi.Validation.AssemblyInfoInputs.cache
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\obj\Debug\netcoreapp3.1\VehicleApi.Validation.AssemblyInfo.cs
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\obj\Debug\netcoreapp3.1\VehicleApi.Validation.csproj.CopyComplete
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\bin\Debug\netcoreapp3.1\VehicleApi.Validation.pdb
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\obj\Debug\netcoreapp3.1\VehicleApi.Validation.csproj.CoreCompileInputs.cache
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\obj\Debug\netcoreapp3.1\VehicleApi.Validation.dll
+C:\Users\anish\OneDrive\Desktop\portable\portable\VehicleApi.Validation\obj\Debug\netcoreapp3.1\VehicleApi.Validation.pdb

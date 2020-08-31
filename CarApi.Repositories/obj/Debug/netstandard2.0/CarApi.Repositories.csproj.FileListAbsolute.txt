@@ -1,0 +1,11 @@
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\bin\Debug\netstandard2.0\CarApi.Repositories.deps.json
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\bin\Debug\netstandard2.0\CarApi.Repositories.dll
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\bin\Debug\netstandard2.0\CarApi.Repositories.pdb
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\obj\Debug\netstandard2.0\CarApi.Repositories.csprojAssemblyReference.cache
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\obj\Debug\netstandard2.0\CarApi.Repositories.AssemblyInfoInputs.cache
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\obj\Debug\netstandard2.0\CarApi.Repositories.AssemblyInfo.cs
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\obj\Debug\netstandard2.0\CarApi.Repositories.dll
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\obj\Debug\netstandard2.0\CarApi.Repositories.pdb
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\bin\Debug\netstandard2.0\CarApi.Context.dll
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\bin\Debug\netstandard2.0\CarApi.Models.dll
+C:\Users\anish\OneDrive\Desktop\Side Project\test\CarApi.Repositories\bin\Debug\netstandard2.0\CarApi.Models.pdb
